@@ -11,7 +11,7 @@ dev = [
     "furo>=2025.12.19",
     "myst-parser>=5.0.0",
     "pytest>=9.0.2",
-    "pytest-cov",
+    #"pytest-cov",
     "ruff>=0.15.4",
     "sphinxcontrib-bibtex>=2.6.5",
 ]
@@ -29,4 +29,4 @@ ignore = ["D100"] # On autorise l'absence de docstring en tout début de fichier
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = "test_*.py"
-addopts = "-v --cov=app --cov-report=term-missing"
+#addopts = "-v --cov=app --cov-report=term-missing"
