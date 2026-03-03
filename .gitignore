@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+.vscode
+Projet_1_bases.md
+
