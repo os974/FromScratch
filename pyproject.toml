@@ -11,6 +11,7 @@ dev = [
     "furo>=2025.12.19",
     "myst-parser>=5.0.0",
     "pytest>=9.0.2",
+    "pytest-cov",
     "ruff>=0.15.4",
     "sphinxcontrib-bibtex>=2.6.5",
 ]
