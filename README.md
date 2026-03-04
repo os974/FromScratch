@@ -52,3 +52,6 @@ html_theme_options = {
 uv run sphinx-build -b html docs/source public
 
 ```
+## Licence
+
+Ce projet est distribué sous la licence [MIT](LICENSE). Voir le fichier `LICENSE` pour plus de détails.
